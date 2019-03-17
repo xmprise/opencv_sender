@@ -1,0 +1,3 @@
+/home/wj/CLionProjects/opencv_sr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wj/CLionProjects/opencv_sr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wj/CLionProjects/opencv_sr/cmake-build-debug/CMakeFiles/opencv_sr.dir
